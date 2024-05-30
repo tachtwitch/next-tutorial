@@ -1,2 +1,3 @@
 # next-tutorial
-My first nextjs re[ository
+My first nextjs repository
+&srnsYBGJTWqq9m
